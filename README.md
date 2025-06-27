@@ -8,6 +8,8 @@
 - IFComp https://ifcomp.org/
 - Interactive Fiction Community Forum https://intfiction.org/
 
+- Text Adventures https://textadventures.co.uk/
+
 - Brass Lantern http://www.brasslantern.org/
 - Baf's Guide https://www.wurb.com/if/
 - SPAG magzine http://www.spagmag.org/archives/
@@ -39,6 +41,8 @@
 - Emily Short's Game Lists https://emshort.blog/category/game-lists/
 - ADRIFT Recommended Games https://www.ifwiki.org/ADRIFT_Recommended_Games
 - The Digital Antiquarian https://www.filfre.net/
+
+- [ZORK Series](./games/z-machine/zork/README.md)
 
 # Authoring
 
