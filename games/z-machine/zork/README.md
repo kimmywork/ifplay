@@ -1,8 +1,3 @@
----
-layout: page
-title: ZORK Series
----
-
 # ZORK series
 
 ## Zork
