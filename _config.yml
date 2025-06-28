@@ -7,7 +7,7 @@ github:
     path: "/"
   repository_url: "https://github.com/kimmywork/ifplay"
 
-title: "Kimmy's Interactive Fiction Collection"
+title: "Kimmy's IF Collection"
 description: "A collection of interactive fiction games and resources."
 exclude:
   - "**/*.qzl"

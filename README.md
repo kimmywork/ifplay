@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Interactive Fictions
 
 ## Useful links
@@ -63,6 +67,8 @@
 
 - The Maze and the Other in Interactive Fiction On Labyrinths, the Infinite, and the Compass
   https://samplereality.com/2018/07/17/the-maze-and-the-other-in-interactive-fiction/
+
+- [My Posts](/posts.md)
 
 ### Non-IF but console game (mostly roguelike)
 
