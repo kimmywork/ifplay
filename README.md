@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Interactive Fictions
 
 ## Useful links
