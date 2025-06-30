@@ -1,4 +1,4 @@
-# Interactive Fictions
+# Kimmy's IF Collection
 
 ## Useful links
 
