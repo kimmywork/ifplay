@@ -64,6 +64,10 @@
 - The Maze and the Other in Interactive Fiction On Labyrinths, the Infinite, and the Compass
   https://samplereality.com/2018/07/17/the-maze-and-the-other-in-interactive-fiction/
 
+- Games, Storytelling, and Breaking the String
+  https://electronicbookreview.com/publications/games-storytelling-and-breaking-the-string/
+
+
 - [My Posts](/posts.md)
 
 ### Non-IF but console game (mostly roguelike)
@@ -95,3 +99,4 @@
 - [Caves of Qud](https://www.cavesofqud.com/)
 - [Cogmind](https://www.gridsagegames.com/cogmind/)
 - [Path of Achra](https://pathofachra.com/)
+- [The Forge - The Internet Home for Independent Role-Playing Games](http://www.indie-rpgs.com/about/)
