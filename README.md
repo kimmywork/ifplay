@@ -58,6 +58,7 @@
 - [Computational Approaches to Narrative](https://catn.decontextualize.com/)
 - [Hypertext and Interactive Fiction](https://hypertext.decontextualize.com/)
 
+- [Electronic Book Review](https://electronicbookreview.com/) digital futures of literature, theory, criticism, and the arts
 
 ## Other links and articles
 
@@ -67,6 +68,12 @@
 - Games, Storytelling, and Breaking the String
   https://electronicbookreview.com/publications/games-storytelling-and-breaking-the-string/
 
+- The significance of plot without conflict
+  https://stilleatingoranges.tumblr.com/post/25153960313/the-significance-of-plot-without-conflict
+
+- The Game of Video Game Objects
+  [game](https://jesperjuul.net/text/gameofobjects/)
+  [notes](https://jesperjuul.net/text/gameofobjects/essay.html)
 
 - [My Posts](/posts.md)
 
