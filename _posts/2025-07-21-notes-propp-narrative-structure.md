@@ -52,7 +52,7 @@ After the initial situation is depicted, any wonder tale will be composed of a s
 
 Some of these functions may be inverted, such as **the hero** receives an artifact of power whilst still at home, thus fulfilling **the donor** function early. Typically such functions are negated twice, so that it must be repeated three times in Western cultures.
 
-Characters
+## Characters
 
 Propp also concludes that all the characters in tales can be resolved into seven abstract character functions:
 
