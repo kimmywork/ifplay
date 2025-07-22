@@ -5,6 +5,7 @@ tags:
     - narration
     - theory
     - notes
+    - structuralism
 category: notes
 ---
 

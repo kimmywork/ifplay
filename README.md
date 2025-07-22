@@ -49,6 +49,7 @@
 - [Inform 7](https://inform7.com/)
 - [Inform 6](https://inform-fiction.org/)
 - [Borogove](https://borogove.app/)
+- [The MDL Programming Language](https://mdl-language.readthedocs.io/en/latest/)
 
 - [Inform - A Design System for Interactive Fiction](https://zedlopez.github.io/i7doc/index.html)
 - [Inform 7 Programmer's Manual](https://zedlopez.github.io/i7doc/i7prog/index.html)
@@ -70,6 +71,17 @@
 
 - The significance of plot without conflict
   https://stilleatingoranges.tumblr.com/post/25153960313/the-significance-of-plot-without-conflict
+
+- Standard Patterns in Choice-Based Games
+  http://heterogenoustasks.wordpress.com/2015/01/26/standard-patterns-in-choice-based-games/
+
+- What is Narratology https://www.narrati.com/Narratology/Narratology.htm
+
+- Transverse Reading Gallery https://jeremydouglass.github.io/transverse-gallery/
+
+- The Curse of Xanadu https://worrydream.com/refs/Wolf_1995_-_The_Curse_of_Xanadu.html
+
+- Patterns of Hypertext https://www.eastgate.com/patterns/Print.html
 
 - The Game of Video Game Objects
   [game](https://jesperjuul.net/text/gameofobjects/)
