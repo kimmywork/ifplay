@@ -50,6 +50,8 @@
 - [Inform 6](https://inform-fiction.org/)
 - [Borogove](https://borogove.app/)
 - [The MDL Programming Language](https://mdl-language.readthedocs.io/en/latest/)
+- [Hugo Resources](https://hugoif.github.io/)
+- [TADS](https://www.tads.org/)
 
 - [Inform - A Design System for Interactive Fiction](https://zedlopez.github.io/i7doc/index.html)
 - [Inform 7 Programmer's Manual](https://zedlopez.github.io/i7doc/i7prog/index.html)
@@ -60,6 +62,8 @@
 - [Hypertext and Interactive Fiction](https://hypertext.decontextualize.com/)
 
 - [Electronic Book Review](https://electronicbookreview.com/) digital futures of literature, theory, criticism, and the arts
+
+- [A-code sources and documentation, 2025-May-06](https://mipmip.org/acode/index.html)
 
 ## Other links and articles
 
