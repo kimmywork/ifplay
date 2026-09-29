@@ -26,4 +26,7 @@
 
 ## TADS
 
-**TBD**
+- [Getting Started in TADS 3](./guides/TADS/Getting Started in TADS 3.pdf)
+- [Learning T3](./guides/TADS/Learning T3.pdf)
+- [Learning T3 Lite](./guides/TADS/LearningT3Lite.pdf)
+- [T3 Tour Guide](./guides/TADS/T3TourGuide.pdf)
